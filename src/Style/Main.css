@@ -1,0 +1,120 @@
+@import "rsuite/dist/rsuite.css";
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color: #E3E3F3;
+    height: 80vh;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+/* popup */
+
+.rs-modal-sm{
+    margin-left: 60px;
+}
+
+.rs-modal-content {
+    width: 70vw;
+    display: flex;
+    
+    flex-direction: column;
+    background-color: #F8C88E;
+    border: 1px solid black;
+}
+
+.rs-modal-body {
+    display: flex;
+    justify-content: center;
+}
+
+.rs-modal-body input {
+    width: 60px;
+    font-size: 20px;
+}
+
+
+
+/* Header */
+
+header {
+    display: flex ;
+    width: 100vw;
+    height: 20vh;
+    background-color: #2A1E5C;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.header img {
+    width: 200px;
+    margin-left: 15%;
+    
+}
+
+.header button {
+    border-style: none;
+    background-color: transparent;
+    color: #E09836;
+    padding-left: 55%;
+    
+}
+
+.header button:hover {
+    background-color: transparent;
+    color: #E09836;
+}
+
+.header button:focus {
+    background-color: transparent;
+    color: #E09836;
+}
+
+.picker{
+    position:absolute;
+    width: 100px;
+    left: 3%;
+    top: 2%;
+    
+}
+
+/* addProfile */
+
+Form {
+    width: 90vw;
+    
+}
+
+.fillInForm {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: black;
+}
+
+.calcButton {
+    margin-top: 15px;
+}
+
+
+/* Kalender */
+
+.calendar {
+    width: 100vw;
+    padding-top: 10%;
+}
+
+
+ .rs-tag {
+    background-color: #F8C88E;
+ }
+   
+ 
