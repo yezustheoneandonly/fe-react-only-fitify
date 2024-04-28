@@ -35,4 +35,4 @@ With Fityfy the user can track the increase and decrease in calories. He can wri
 ## Lincense:
 
 The copyrights belong to Niclas Basler (https://github.com/Shadow-Nic), Daniel Wolthausen (https://github.com/Hunnitio), Hoang Long (https://github.com/Bubteck) and Stephan Hörichs https://github.com/yezustheoneandonly. Any misuse of the code or content has legal consequences
-https://spa-final-project.onrender.com/
+
