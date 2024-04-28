@@ -24,7 +24,7 @@ This project was created as part of further training to become a web developer. 
 
 # Fitify -Calories tracker
 
-## Discription:
+## Description:
 
 With Fityfy the user can track the increase and decrease in calories. He can write down what and how much he has eaten during the day and the app calculates the calories he has gained. The user can also enter in the app whether and how much exercise they did during the day. Here too, the app calculates the number of calories burned. The average value is calculated based on the user's data and the user can check every day whether it is above or below his daily requirement.
 
