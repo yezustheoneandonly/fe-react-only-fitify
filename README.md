@@ -20,7 +20,7 @@ Die Urheberrechte liegen bei Niclas Basler (https://github.com/Shadow-Nic), Dani
 
 This project was created as part of further training to become a web developer. It was the final project of the Single Page Application Moduls module. The prerequisite was to write a program that is based only on React.
 
-# Fitify -Clalories tracker
+# Fitify -Calories tracker
 
 ## Discription:
 
