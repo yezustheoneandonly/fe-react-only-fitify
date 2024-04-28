@@ -1,6 +1,6 @@
 # fe-react-only-fitify
 
-Dieses Projekt ist im Rahmen einer Weiterbildung zum Web Developer entstanden. Es war Abschlussprojekt des Single Page Application Moduls. Vorraussetzung war ein Programm zu schreiben welches nur auf React im FrontEnd basiert.
+Dieses Projekt ist im Rahmen einer Weiterbildung zum Web Developer entstanden. Es war Abschlussprojekt des Single Page Application Moduls. Vorraussetzung war ein Programm oder Website zu schreiben welche nur auf React im FrontEnd basiert.
 
 
 # Fitify - Kalorientracker:
@@ -20,7 +20,7 @@ Die Urheberrechte liegen bei Niclas Basler (https://github.com/Shadow-Nic), Dani
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-This project was created as part of further training to become a web developer. It was the final project of the Single Page Application Moduls module. The prerequisite was to write a program that is based only on React.
+This project was created as part of further training to become a web developer. It was the final project of the Single Page Application Moduls module. The prerequisite was to write a program or website that is based only on React.
 
 # Fitify -Calories tracker
 
